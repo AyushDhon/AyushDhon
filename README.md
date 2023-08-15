@@ -1,3 +1,5 @@
+<img height="150px" width="1100px" src="https://media.licdn.com/dms/image/C4E16AQFf1sWBNtANFA/profile-displaybackgroundimage-shrink_200_800/0/1613600153890?e=2147483647&v=beta&t=F6ABbsK2KONWEHSpdUQLhptIkefhLor9SAdojHYSUAM">
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar Dhon</h1>
 <h3 align="center">An enthusiastic, hardworking and a well organised candidate successful at managing multiple priorities with a positive attitude. Want to be the part of an enthusiastic work environment, where i can use my technical skills to accomplish organizational goals.</h3>
 
