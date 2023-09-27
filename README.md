@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Dhon</h1>
 <h3 align="center">An enthusiastic, hardworking and a well organised candidate successful at managing multiple priorities with a positive attitude. Want to be the part of an enthusiastic work environment, where i can use my technical skills to accomplish organizational goals.</h3>
 
-- 🌱 I’m currently learning **Full-Stack Development, Cloud Computing & Visual Programming**
+- 🌱 I’m currently learning **Full-Stack Development, Cloud Computing & Python Programming**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, DBMS, Digital Marketing, Cryptography**
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Digital Marketing, Cryptography**
 
 - 📫 How to reach me **dhonayushkumar03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oMETgfVEkKCYVzu8vJWBImprUOWd12XE/view?usp=drive_link](https://drive.google.com/file/d/1oMETgfVEkKCYVzu8vJWBImprUOWd12XE/view?usp=drive_link)
-
-- ⚡ Fun fact **I am an introvert and very meticulous person.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rIt4Mmc2rdrTSlsFtTWwns_2_rdfNKO3/view?usp=sharing](https://drive.google.com/file/d/1rIt4Mmc2rdrTSlsFtTWwns_2_rdfNKO3/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <center>
