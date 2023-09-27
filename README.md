@@ -38,7 +38,7 @@
 				</td>
 				<td width="25%" align="center">
 					<span><strong>MySQL</strong></span><br/>
-					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png">
+					<img height="64px" width="68px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png">
 				</td>
         		</tr>
       		</tbody>
