@@ -47,7 +47,7 @@ An enthusiastic, hardworking and a well organised candidate successful at managi
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/DhonAyush" target="blank"><img align="center" src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" alt="DhonAyush" height="30" width="30"/></a> &nbsp;
+<a href="https://twitter.com/DhonAyush" target="blank"><img align="center" src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" alt="DhonAyush" height="30" width="40"/></a> &nbsp;
 <a href="https://linkedin.com/in/ayush kumar dhon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Ayush Kumar Dhon" height="30" width="30" /></a> &nbsp;
 <a href="https://instagram.com/ayush_d115" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="ayush_d115" height="30" width="30" /></a> &nbsp;
 </p>
