@@ -1,6 +1,6 @@
 ![2](https://github.com/AyushDhon/AyushDhon/assets/125655894/fcd27d9f-26aa-4919-ae74-e805793d2a1b)
 
-# <h1 align="center">Hi 👋, I'm Ayush Kumar Dhon</h1>
+# <h1 align="center">Hi👋, I'm Ayush Kumar Dhon</h1>
 An enthusiastic, hardworking and a well organised candidate successful at managing multiple priorities with a positive attitude. Want to be the part of an enthusiastic work environment, where i can use my technical skills to accomplish organizational goals.
 
 - 🌱 I’m currently learning **Full-Stack Development, Cloud Computing & Python Programming**
