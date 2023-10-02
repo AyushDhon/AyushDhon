@@ -13,32 +13,32 @@ An enthusiastic, hardworking and a well organised candidate successful at managi
 
 <h3 align="left">Languages and Tools:</h3>
 <center>
-	<table>
+	<table border="2">
 		<tbody>
 			<tr>
-				<td width="25%" align="center">
+				<td width="20%" align="center">
 					<span><strong>Python</strong></span><br/>
 					<img height="64px" width="64px" src="https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc.png">
 				</td>
-				<td width="25%" align="center">
+				<td width="20%" align="center">
 					<span><strong>Java</strong></span><br/>
 					<img height="64px" width="64px" src="https://dev.java/assets/images/java-logo-vert-blk.png">
 				</td>
-				<td width="25%" align="center">
+				<td width="20%" align="center">
 					<span><strong>HTML</strong></span><br/>
 					<img height="64px" width="64px" src="https://img.freepik.com/free-icon/html-5_318-566077.jpg">
 				</td>
-				<td width="25%" align="center">
+				<td width="20%" align="center">
 					<span><strong>CSS</strong></span><br/>
 					<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
 				</td>
-				<td width="25%" align="center">
+				<td width="20%" align="center">
 					<span><strong>Javascript</strong></span><br/>
 					<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png">
 				</td>
-				<td width="25%" align="center">
+				<td width="20%" align="center">
 					<span><strong>MySQL</strong></span><br/>
-					<img height="64px" width="68px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png">
+					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png">
 				</td>
         		</tr>
       		</tbody>
