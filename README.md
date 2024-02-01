@@ -9,7 +9,7 @@ An enthusiastic, hardworking and a well organised candidate successful at managi
 
 - 📫 How to reach me **dhonayushkumar03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nqyJLWpWVYM92JaqZtoWc00k7wty5bcL/view?usp=drive_link](https://drive.google.com/file/d/1nqyJLWpWVYM92JaqZtoWc00k7wty5bcL/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nqyJLWpWVYM92JaqZtoWc00k7wty5bcL/view?usp=sharing](https://drive.google.com/file/d/1nqyJLWpWVYM92JaqZtoWc00k7wty5bcL/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <center>
