@@ -3,9 +3,9 @@
 <h1 align="center">Hi👋, I'm Ayush Kumar Dhon</h1>
 An enthusiastic, hardworking and a well organised candidate successful at managing multiple priorities with a positive attitude. Want to be the part of an enthusiastic work environment, where i can use my technical skills to accomplish organizational goals.
 
-- 🌱 I’m currently learning **Full-Stack Development, Cloud Computing & Python Programming**
+- 🌱 I’m currently improving my skills in **Full-Stack Development, Machine Learning & Python Programming**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Digital Marketing, Cryptography**
+- 💬 My LinkedIn Id: https://www.linkedin.com/in/ayush-kumar-dhon-771602208/
 
 - 📫 How to reach me **dhonayushkumar03@gmail.com**
 
