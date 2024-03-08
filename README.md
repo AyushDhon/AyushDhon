@@ -5,40 +5,46 @@ An enthusiastic, hardworking and a well organised candidate successful at managi
 
 - 🌱 I’m currently improving my skills in **Full-Stack Development, Machine Learning & Python Programming**
 
-- 💬 My LinkedIn Id: https://www.linkedin.com/in/ayush-kumar-dhon-771602208/
-
 - 📫 How to reach me **dhonayushkumar03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nqyJLWpWVYM92JaqZtoWc00k7wty5bcL/view?usp=sharing](https://drive.google.com/file/d/1nqyJLWpWVYM92JaqZtoWc00k7wty5bcL/view?usp=sharing)
+- 📄 Know about my certifications & experiences: [Click](https://drive.google.com/drive/folders/1CHiWdBXD-aFvqVbXTUy4V7eCW__gFkRk?usp=sharing) 
 
 <h3 align="left">Languages and Tools:</h3>
 <center>
 	<table border="2">
 		<tbody>
 			<tr>
-				<td width="20%" align="center">
+				<td align="center">
 					<span><strong>Python</strong></span><br/>
-					<img height="64px" width="64px" src="https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc.png">
+					<img height="65px" width="65px" src="https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc.png">
 				</td>
-				<td width="20%" align="center">
+				<td align="center">
 					<span><strong>Java</strong></span><br/>
-					<img height="64px" width="64px" src="https://dev.java/assets/images/java-logo-vert-blk.png">
+					<img height="65px" width="65px" src="https://dev.java/assets/images/java-logo-vert-blk.png">
 				</td>
-				<td width="20%" align="center">
+				<td align="center">
 					<span><strong>HTML</strong></span><br/>
-					<img height="64px" width="64px" src="https://img.freepik.com/free-icon/html-5_318-566077.jpg">
+					<img height="65px" width="65px" src="https://img.freepik.com/free-icon/html-5_318-566077.jpg">
 				</td>
-				<td width="20%" align="center">
+				<td align="center">
 					<span><strong>CSS</strong></span><br/>
-					<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
+					<img height="65px" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
 				</td>
-				<td width="20%" align="center">
+				<td align="center">
 					<span><strong>Javascript</strong></span><br/>
-					<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png">
+					<img height="65px" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png">
 				</td>
-				<td width="20%" align="center">
-					<span><strong>MySQL</strong></span><br/>
-					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png">
+				<td align="center">
+					<span><strong>SQL</strong></span><br/>
+					<img height="65px" width="65px" src="https://i.pinimg.com/564x/7a/76/cf/7a76cff597d8b80b3f1dc36a28bdd39d.jpg">
+				</td>
+				<td align="center">
+					<span><strong>PHP</strong></span><br/>
+					<img height="65" width="65px" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png">
+				</td>
+				<td align="center">
+					<span><strong>VS Code</strong></span><br/>
+					<img height="65" width="65px" src="https://cdn.dribbble.com/users/6569/screenshots/16471177/vs_code_dribbble_4x.png">
 				</td>
         		</tr>
       		</tbody>
